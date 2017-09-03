@@ -3,3 +3,5 @@ A class project from my sophomore year of college that can add integers larger t
 The trick is use an array or a vector to hold each digit in an index and add the indexs of each. <br/>
 Langage: C++ <br/>
 Date Completed: Apr 6, 2014 <br/>
+## Instructions
+Follow the promts, and you will end up fine. Just enter 2 integers of "any" (100 digits max) length, and you will be shown the sum of the 2 integers.
